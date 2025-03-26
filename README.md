@@ -79,3 +79,7 @@ In the future, I plan to enhance the File Integrity Checker by:
 1. Implementing Additional Hash Algorithms: I plan to add support for additional hash algorithms, such as MD5 and SHA-1.
 2. Improving Error Handling: I plan to improve error handling by providing more detailed error messages and handling additional error scenarios.
 3. Adding Support for Multiple Files: I plan to add support for checking the integrity of multiple files at once.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/43b972f9-93d0-45f4-bd57-986eade339b1)
