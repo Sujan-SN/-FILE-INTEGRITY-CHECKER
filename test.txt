@@ -1,0 +1,2 @@
+A file integrity checker is a tool or software that verifies the accuracy and consistency of files over time.
+It checks for unauthorized changes, corruption, or tampering by comparing the current version of a file with a known, trusted version, often using cryptographic hash functions to detect any discrepancies.
